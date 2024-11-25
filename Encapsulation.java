@@ -11,8 +11,8 @@ public class Encapsulation
  
 	 Book book1 = new Book();
 	 book1.setbooknumber(1);
-	 book1.setTitle("Mga Ibong Mandaragit");
-	 book1.setname("Amado Hernandez");
+	 book1.setTitle("Beauty and the Beast");
+	 book1.setname("Jeanne Marie");
 	 book1.setprice( 480.00f);
  
 	 System.out.println("Book number: " + book1.getBookNumber());
